@@ -6,12 +6,12 @@ Aquí documentamos todo: idea, arquitectura, desarrollo, prototipo, código y en
 ---
 
 ## 👥 **Equipo Tecnoide**
-| Rol                | Integrante                 |
-|--------------------|----------------------------|
-| Desarrollo IA (SW) | Santiago Chacón Castillo   |
-| Desarrollo IA (SW) | Alejandro Jiménez Segura   |
-| Prototipo (HW)     | Michelle Gutierrez Araya   |
-| Prototipo (HW)     | Keylor Muñoz Soto          |
+| Rol                | Integrante                      |
+|--------------------|---------------------------------|
+| Desarrollo IA (SW) | Santiago Chacón Castillo        |
+| Desarrollo IA (SW) | Alejandro Jiménez Segura        |
+| Prototipo (HW)     | Michelle Gutierrez Araya (Lider)|
+| Prototipo (HW)     | Keylor Muñoz Soto               |
 
 ---
 
