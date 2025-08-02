@@ -37,12 +37,12 @@ Ahora, es útil que tambien un solo dispositivo no sea usado unicamente por un i
 ---
 
 ##  **Objetivo**
-Desarrollar un dispositivo de asistencia para la supervivencia y emergencias usando la inteligencia artificial
-Desarrollar un **prototipo innovador con IA integrada** para resolver el reto propuesto en las Olimpiadas, optimizando:
-- 🤝 Usabilidad
-- 🔍 Precisión  
-- ⚡ Eficiencia  
-
+**General:**
+Desarrollar un dispositivo innovador portatil integrado de asistencia para la supervivencia en caso de emergencias usando la inteligencia artificial.
+**Específicos:**
+  - Diseñar un asistente portatil para la supervivencia integrado con IA con un funcionamiento completamente independiente de redes wifi.
+  - Establecer un sistema con IA que genere respuestas coherentes y especificas para cada situación dada al asistente.
+  - Componer un dispositivo integrado que optimice la extracción de información del ambiente mediante sensores con la ayuda del microcontrolador y la IA.
 
 ---
 
