@@ -1,0 +1,20 @@
+To start a brief demo of Mistral, run the provided bash file in a Linux system.
+
+One must first give proper permissions to the file to make it executable, this is achieved with the following command:
+
+    sudo chmod +x installation.sh
+
+To execute the file, one must use the following command:
+
+    ./installation.sh
+
+Afterwards the file will begin preparing the demo, after about 20 minutes the model will be ready for interaction.
+
+To exit the demo, one must use the following command:
+
+    /bye
+
+In the future to reopen the model without reinstalling, use the following command:
+
+    ollama run mistral
+
