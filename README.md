@@ -37,6 +37,7 @@ Ahora, es útil que tambien un solo dispositivo no sea usado unicamente por un i
 ---
 
 ##  **Objetivo**
+Desarrollar un dispositivo de asistencia para la supervivencia y emergencias usando la inteligencia artificial
 Desarrollar un **prototipo innovador con IA integrada** para resolver el reto propuesto en las Olimpiadas, optimizando:
 - 🤝 Usabilidad
 - 🔍 Precisión  
