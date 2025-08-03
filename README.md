@@ -46,6 +46,14 @@ Desarrollar un dispositivo innovador portatil integrado de asistencia para la su
 
 ---
 
+##  **Requisitos Iniciales**
+Lista breve de lo que el sistema debe lograr:
+    Funcionar sin necesidad de conectarse a niguna red
+    Que obtenga información obtenida de los sensores y usuario
+    Respuesta acorde a la situación
+   
+---
+
 ##  **Arquitectura del Proyecto**
 El proyecto combina **hardware** y **software**:
 
