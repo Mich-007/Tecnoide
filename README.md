@@ -61,8 +61,10 @@ Es la imagen subida en los archivos llamada "Cronograma preliminar", en esa imag
 
 Riesgos identificados y mitigaciones:
 
-Protabilidad: Se realizará de manera que se comprima lo más posible el prototipo y señalaremos las opciones que lo compactarían más, mostrando igualmente el mejor prototipo que podamos realizar con los materiales y tecnología que tenemos acceso
-La IA pesada, pero necesaria: Se trabaja con una IA que use el minimo de memoría que pueda, pero que sea capaz de dar una respuesta personalizada y compleja, finalmente decidiendo usar un NUC (debido a que tenemos una aunque no es un modelo actual) para que unicamente soporte la IA
+- Protabilidad: Se realizará de manera que se comprima lo más posible el prototipo y señalaremos las opciones que lo compactarían más, mostrando igualmente el mejor prototipo que podamos realizar con los materiales y tecnología que tenemos acceso
+  
+- La IA pesada, pero necesaria: Se trabaja con una IA que use el minimo de memoría que pueda, pero que sea capaz de dar una respuesta personalizada y compleja, finalmente decidiendo usar un NUC (debido a que tenemos una aunque no es un modelo actual) para que unicamente soporte la IA
+
 ---
 
 ##  **Arquitectura del Proyecto**
