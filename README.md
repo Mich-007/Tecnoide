@@ -32,7 +32,7 @@ Ahora, es útil que tambien un solo dispositivo no sea usado unicamente por un i
   - Centros de refugio despues de algun desastre natural
   - zonas seguras en lugares con alta concentración poblacional
   - centro de hobbies/deporte de riesgo 
-  - En 
+  - Etc...
 
 ---
 
@@ -48,14 +48,28 @@ Desarrollar un dispositivo innovador portatil integrado de asistencia para la su
 
 ##  **Requisitos Iniciales**
 Lista breve de lo que el sistema debe lograr:
-    Funcionar sin necesidad de conectarse a niguna red
-    Que obtenga información obtenida de los sensores y usuario
-    Respuesta acorde a la situación
+    - Funcionar sin necesidad de conectarse a niguna red
+    - Que obtenga información obtenida de los sensores y usuario
+    - Respuesta acorde a la situación
    
 ---
 
+##  **Plan de trabajo**
+Cronograma preliminar:
+Es la imagen subida en los archivos llamada "Cronograma preliminar", en esa imagen se detalla como trabajaremos
+
+Riesgos identificados y mitigaciones:
+
+Protabilidad: Se realizará de manera que se comprima lo más posible el prototipo y señalaremos las opciones que lo compactarían más, mostrando igualmente el mejor prototipo que podamos realizar con los materiales y tecnología que tenemos acceso
+La IA pesada, pero necesaria: Se trabaja con una IA que use el minimo de memoría que pueda, pero que sea capaz de dar una respuesta personalizada y compleja, finalmente decidiendo usar un NUC (debido a que tenemos una aunque no es un modelo actual) para que unicamente soporte la IA
+---
+
 ##  **Arquitectura del Proyecto**
+Dentro de los archivos subidos, mostramos componentes que vamos a usar, una imagen de estos en simulador (esquemas) y tambien como se esta trabajando la IA
+
 El proyecto combina **hardware** y **software**:
 
 ```plaintext
 Sensores (HW) → Microcontrolador (ESP32/RPi) → IA (SW) → Respuesta / Acción
+
+
