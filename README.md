@@ -31,7 +31,8 @@ Ahora, es útil que tambien un solo dispositivo no sea usado unicamente por un i
 
   - Centros de refugio despues de algun desastre natural
   - zonas seguras en lugares con alta concentración poblacional
-  - centro de hobbies/deporte de riesgo 
+  - centro de hobbies/deporte de riesgo
+  - Incluso si se adapta se puede llevar a estaciones en el espacio o misiones (en caso de que falle la propia red que ellos tienen)
   - Etc...
 
 ---
