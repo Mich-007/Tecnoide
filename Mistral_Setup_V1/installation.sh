@@ -19,7 +19,7 @@ else
 fi
 
 # Download and install Ollama
-echo "⬇Downloading and installing Ollama..."
+echo "Downloading and installing Ollama..."
 curl -fsSL https://ollama.com/install.sh | sh
 
 # Wait a moment for installation to complete
@@ -32,7 +32,7 @@ if ! command -v ollama &> /dev/null; then
     exit 1
 fi
 
-echo "✅ Ollama installed successfully!"
+echo "Ollama installed successfully!"
 
 # Start Ollama service (this will run in background)
 echo "Starting Ollama service..."
