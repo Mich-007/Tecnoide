@@ -1,4 +1,4 @@
-# 🔌 Sensores y Componentes – Proyecto Tecnoide
+ Sensores y Componentes – Proyecto Tecnoide
 
 Este proyecto integra **módulos de hardware cuidadosamente seleccionados** para cumplir con los objetivos de detección, interacción y procesamiento en tiempo real.  
 A continuación, se detallan los componentes utilizados y su función dentro del sistema.
@@ -6,7 +6,7 @@ A continuación, se detallan los componentes utilizados y su función dentro del
 ---
  **Lista de Sensores y Componentes**
 
-### **ESP32 – Unidad de Control Principal**
+ **ESP32 – Unidad de Control Principal**
 - **Rol:** Microcontrolador encargado de leer sensores, procesar datos iniciales y comunicarse con la IA.  
 - **Ventajas:**
   - Conectividad Wi-Fi y Bluetooth.
@@ -63,7 +63,6 @@ Para la **ejecución y soporte de la IA**, debido a los requerimientos de proces
   - Capaz de correr modelos IA en tiempo real y comunicar resultados al ESP32.
 
 ---
-
-## 🔗 **Integración General**
+ **Integración General**
 ```plaintext
 [ Sensores ] → [ ESP32 ] → [ Comunicación ] → [ IA en NUC ] → [ Respuesta en LCD / Acciones ]
