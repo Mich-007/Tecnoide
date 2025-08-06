@@ -4,10 +4,9 @@ Este proyecto integra **módulos de hardware cuidadosamente seleccionados** para
 A continuación, se detallan los componentes utilizados y su función dentro del sistema.
 
 ---
+ **Lista de Sensores y Componentes**
 
-## ⚙️ **Lista de Sensores y Componentes**
-
-### 1️⃣ **ESP32 – Unidad de Control Principal**
+### **ESP32 – Unidad de Control Principal**
 - **Rol:** Microcontrolador encargado de leer sensores, procesar datos iniciales y comunicarse con la IA.  
 - **Ventajas:**
   - Conectividad Wi-Fi y Bluetooth.
@@ -16,7 +15,7 @@ A continuación, se detallan los componentes utilizados y su función dentro del
 
 ---
 
-### 2️⃣ **Sensor de Humedad y Temperatura (DHT22 / similar)**
+ **Sensor de Humedad y Temperatura (DHT22 / similar)**
 - **Rol:** Monitorizar condiciones ambientales (humedad relativa y temperatura).
 - **Uso en el proyecto:**
   - Ajustes de funcionamiento según ambiente.
@@ -24,7 +23,7 @@ A continuación, se detallan los componentes utilizados y su función dentro del
 
 ---
 
-### 3️⃣ **Sensor de Gases (MQ-2 / MQ-135 u otro)**
+**Sensor de Gases (MQ-2 / MQ-135 u otro)**
 - **Rol:** Detección de gases peligrosos o contaminantes.
 - **Gases típicos:** CO, CH₄, LPG, humo.
 - **Uso en el proyecto:**
@@ -33,7 +32,7 @@ A continuación, se detallan los componentes utilizados y su función dentro del
 
 ---
 
-### 4️⃣ **Fotocelda / LDR (Sensor de Luz)**
+**Fotocelda / LDR (Sensor de Luz)**
 - **Rol:** Medir la intensidad de luz ambiental.
 - **Uso en el proyecto:**
   - Ajuste dinámico de iluminación en pantalla.
@@ -41,7 +40,7 @@ A continuación, se detallan los componentes utilizados y su función dentro del
 
 ---
 
-### 5️⃣ **Teclado Matricial 4x4**
+**Teclado Matricial 4x4**
 - **Rol:** Interfaz de entrada manual para control de parámetros o ingreso de datos.
 - **Uso en el proyecto:**
   - Ajuste de configuraciones.
@@ -49,7 +48,7 @@ A continuación, se detallan los componentes utilizados y su función dentro del
 
 ---
 
-### 6️⃣ **Pantalla LCD (I2C)**
+**Pantalla LCD (I2C)**
 - **Rol:** Mostrar información en tiempo real.
 - **Uso en el proyecto:**
   - Visualización de valores de sensores.
@@ -57,7 +56,7 @@ A continuación, se detallan los componentes utilizados y su función dentro del
 
 ---
 
-## 🧠 **Soporte de Inteligencia Artificial**
+**Soporte de Inteligencia Artificial**
 Para la **ejecución y soporte de la IA**, debido a los requerimientos de procesamiento, se utilizó un:
 - **Intel NUC**  
   - Mini-PC de alto rendimiento.
